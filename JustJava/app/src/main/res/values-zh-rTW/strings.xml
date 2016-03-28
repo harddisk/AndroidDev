@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_name">名字</string>
+    <string name="string_topping">加料</string>
+    <string name="string_whipped_cream">奶油</string>
+    <string name="string_chocolate">巧克力</string>
+    <string name="string_quantity">數量</string>
+    <string name="string_order_summary">訂單摘要</string>
+    <string name="string_order">訂購</string>
+    <!-- Name for the order summary. It will be shown in the format of "Name: Andrea" where Andrea is the
+         user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="string_order_summary_name">名字: <xliff:g id="name" example="Andrean">%s</xliff:g></string>
+    <string name="string_add_whipped_cream">加奶油? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="string_add_chocolate">加巧克力? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="string_order_summary_quantity">數量: <xliff:g id="quantity" example="2">%s</xliff:g></string>
+    <string name="string_total">總數: <xliff:g id="price" quantity="15">%s</xliff:g></string>
+    <string name="string_thank_you">謝謝!</string>
+</resources>

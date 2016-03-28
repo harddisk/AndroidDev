@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_name">Nombre</string>
+    <string name="string_topping">Ingrediente</string>
+    <string name="string_whipped_cream">Crema batida</string>
+    <string name="string_quantity">Cantidad</string>
+    <string name="string_order_summary">Resumen del pedido</string>
+    <string name="string_order">Orden</string>
+    <string name="string_add_whipped_cream">Agregue la crema batida</string>
+    <string name="string_add_chocolate">Añadir el chocolate</string>
+    <string name="string_thank_you">Gracias!</string>
+</resources>
